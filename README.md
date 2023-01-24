@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Izaque Israel 😁👋</h1>
-<h2 align="center">🔭 Sou desenvolvedor full stack e busco performance, otimização, dinâmica com minhas aplicações web e sempre aperfeiçoando meu conhecimento em boas práticas</h3>
+<h3 align="center">🔭 Sou desenvolvedor full stack e busco performance, otimização, dinâmica com minhas aplicações web e sempre aperfeiçoando meu conhecimento em boas práticas</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/izaque-israel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis pankov" height="30" width="40" /></a>
 </p>
