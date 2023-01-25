@@ -34,9 +34,9 @@
 </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izaqueisrael&theme=dark&show_icons=true&locale=en&layout=compact" alt="izaqueIsrael" /></p>
+<p align="center"><img align="center" src="https://readme-stats-nu-self.vercel.app/api/top-langs?username=izaqueisrael&theme=dark&show_icons=true&locale=en&layout=compact" alt="izaqueIsrael" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izaqueisrael&theme=dark&count_private=true&show_icons=true&locale=en" alt="izaqueIsrael" /></p>
+<p align="center">&nbsp;<img align="center" src="https://readme-stats-nu-self.vercel.app/api?username=izaqueisrael&theme=dark&count_private=true&show_icons=true&locale=en" alt="izaqueIsrael" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izaqueisrael&theme=dark" alt="izaqueIsrael" /></p>
 
