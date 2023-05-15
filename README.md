@@ -33,7 +33,7 @@
 
 </ul>
 
-<h3 align="justify">Linguagens e ferramentas que possuo afinidade:</h3>
+<h3 align="justify">Linguagens, bibliotecas, frameworks e ferramentas que possuo afinidade:</h3>
 <br>
 <p align="center"> 
 <a href="https://www.w3schools.com/css/" target="_blank">
