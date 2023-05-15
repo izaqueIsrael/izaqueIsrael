@@ -1,50 +1,107 @@
-<h1 align="center">Olá, sou Izaque Israel 😁👋</h1>
-<h3 align="center">🔭 Sou desenvolvedor full stack e busco sempre a otimização e aperfoamento das boas práticas</h3>
-<h3 align="center">- ⚡ Fato divertido: Amo cozinhar e jogo World of Warcraft faz 13 anos</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/izaque-israel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis pankov" height="30" width="40" /></a>
-</p>
+<h1 align="center">Olá, sou Izaque Israel 👋</h1>
+<h2 align="center">Meu nome é Izaque e sou desenvolvedor Full Stack, é um honra te-lo aqui 😁</h2>
+<br>
+<p align="justify">Eu tenho experiência com meus projetos e gosto de trabalhar com JavaScript, incluindo suas bibliotecas e frameworks, para resolver problemas na criação e manutenção de aplicações. Me sinto confortável em utilizar diversas tecnologias, tais como React, Node.js, Express.js, entre outras, e busco sempre aprender mais para melhorar minhas habilidades.</p>
+<br>
+<p align="justify">No bootcamp de desenvolvedor full stack da Practicum, obtive excelentes resultados e sempre estive entre os melhores alunos, assim como em minha faculdade de Engenharia de Software com CR de 8,9. Dessa forma, tive a oportunidade de colocar meus conhecimentos em prática ao vencer o hackathon Carnaval Pudding com minha equipe. Durante o curso, adquiri um conhecimento aprofundado sobre o funcionamento do JavaScript, suas propriedades e as principais bibliotecas e frameworks utilizadas no mercado. Também aprendi sobre a importância de boas práticas de programação, trabalho em equipe e versionamento de código, conceitos que pude debater e aplicar de forma ampla.</p>
+<br>
+<p align="justify">Também sou formado em nível técnico em Mecatrônica e através do curso aprendi lógica de programação com C e Pascal</p>
+<br>
+<h3>Esse são meus cursos e certificados</h3>
+<ul>
+<li><a style="color:white" href="https://cursos.alura.com.br/certificate/1cd3ebbd-4135-4a22-b941-37cd5a88368a" target="_blank">Desenvolvedor Full Stack, Practicum Yandex</a></li>
+<li><a style="color:white" href="https://cursos.alura.com.br/certificate/5be6f8ae-f02b-46f9-8e51-2eebda18fecb" target="_blank">Git e Github, repositório, commit e versões</a></li>
+<li><a style="color:white" href="https://cursos.alura.com.br/certificate/iisrael-afv/git-github-controle-de-versao" target="_blank">Git e Github, controle e compartilhamento</a></li>
+<li><a style="color:white" href="https://cursos.alura.com.br/certificate/iisrael-afv/git-github-branching-conflitos-pull-requests" target="_blank">Git e Github, ramificação, conflitos e pull requests</a></li>
+<li><a style="color:white" href="https://www.freecodecamp.org/certification/fcc31abeb5e-80fd-4182-a610-0c263f3e3a50/responsive-web-design" target="_blank">Responsible Web Designer</a></li>
+<li><a style="color:white" href="" target="_blank">Cybersegurança voltada a Segurança de Dados</a></li>
+<li><a style="color:white" href="https://cursos.alura.com.br/certificate/1cd3ebbd-4135-4a22-b941-37cd5a88368a" target="_blank">Adobe XD</a></li>
+</ul>
 
-<h3 align="center">Linguagens e ferramentas</h3>
+<br>
+<p align="justify">Tenho experiência como freelancer na área de eletrônica e vendas, realizando serviços de manutenção e reparo de diversos equipamentos. Possuo conhecimentos intermediários de inglês e sou uma pessoa responsável, organizada e comprometida com a qualidade do meu trabalho.</p>
 
+<br>
+
+<h3 align="justify">Confira meus trabalhos</h3>
+<ul>
+<li><a href="https://github.com/izaqueIsrael/around-react" style="color:white" target="_blank">Around React:</a> Rede Social feita com react e uma API em Node com banco NoSQL</li>
+<li><a href="https://github.com/izaqueIsrael/around-express_ptbr" style="color:white" target="_blank">Around Express:</a>  Api do projjeto Around React e Social Network</li>
+<li><a href="https://github.com/izaqueIsrael/web_project_4_ptbr" style="color:white" target="_blank">Social Network:</a>  Rede Social do Around React, mas feita com JavaScript Puro</li>
+<li><a href="https://github.com/izaqueIsrael/web_project_3_ptbr" style="color:white" target="_blank">Landing Page:</a>  Página de apresentação, demonstrando proeficiencia com HTML e CSS</li>
+<li><a href="https://github.com/hainaha/carnaval-pudding-frontend" style="color:white" target="_blank">Carnaval Puding:</a>  Projeto vencedor do Hackaton, tive a participação na elaboração do Quizz e estilização do Header da página bem como a seleção de Imagens de uso livre</li>
+
+</ul>
+
+<h3 align="justify">Linguagens e ferramentas que possuo afinidade:</h3>
+<br>
 <p align="center"> 
 <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" alt="css3" width="40" height="40"/> 
 </a> 
 <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="html5" width="40" height="40"/>
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" alt="react" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> 
+</a>
+<a href="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" alt="SQL" width="40" height="40"/> 
+</a> 
+<a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg" alt="figma" width="40" height="40"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" alt="DOCKER" width="40" height="40"/> 
+</a> 
 <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> 
+</a>
+<a href="https://helpx.adobe.com/br/support/xd.html" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/XD.svg" alt="figma" width="40" height="40"/> 
 </a>
 <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="git" width="40" height="40"/> 
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">    
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" alt="C" width="40" height="40"/>
 </a>
 </p>
+<br>
+<h3> Sobre mim</h3>
+<ul>
+<li>🧑‍🎓 Estou no segundo período da minha faculdade de Engenharia de Software</li>
+<li>🧑‍🍳 Sou um excelente chef</li>
+<li>🧙‍♂️ Jogo World of Warcraft há 13 anos</li>
+<li>📖 Meu gênero literário favorito é de fantasia</li>
+<li>🎸 Minha banda favorita é Sabaton</li>
+</ul>
+
+<hr>
+<h2 align="center">Contato</h2>
+<br>
+<p align="center" style="font-weight:bold"> 📧 iisrael.afv@gmail.com</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/izaque-israel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="Izaque Israel" height="30" width="40" /></a>
+<a href="//wa.me/5521991664660" target="blank"><img align="center" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png?raw=true" alt="Izaque Israel" height="30" width="30" /></a>
+</p>
+
+<br>
+<br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izaqueisrael&theme=dark&show_icons=true&locale=en&layout=compact" alt="izaqueIsrael" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izaqueisrael&theme=dark&count_private=true&show_icons=true&locale=en" alt="izaqueIsrael" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izaqueisrael&theme=dark" alt="izaqueIsrael" /></p>
-
-
-
-
-
-
-
-
-
