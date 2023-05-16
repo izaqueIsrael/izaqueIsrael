@@ -26,7 +26,7 @@
 <h3 align="justify">Confira meus trabalhos</h3>
 <ul>
 <li><a href="https://github.com/izaqueIsrael/around-react" style="color:white" target="_blank">Around React:</a> Rede Social feita com react e uma API em Node com banco NoSQL</li>
-<li><a href="https://github.com/izaqueIsrael/around-express_ptbr" style="color:white" target="_blank">Around Express:</a>  Api do projjeto Around React e Social Network</li>
+<li><a href="https://github.com/izaqueIsrael/around-express_ptbr" style="color:white" target="_blank">Around Express:</a>  Api do projeto Around React e Social Network</li>
 <li><a href="https://github.com/izaqueIsrael/web_project_4_ptbr" style="color:white" target="_blank">Social Network:</a>  Rede Social do Around React, mas feita com JavaScript Puro</li>
 <li><a href="https://github.com/izaqueIsrael/web_project_3_ptbr" style="color:white" target="_blank">Landing Page:</a>  Página de apresentação, demonstrando proeficiencia com HTML e CSS</li>
 <li><a href="https://github.com/hainaha/carnaval-pudding-frontend" style="color:white" target="_blank">Carnaval Puding:</a>  Projeto vencedor do Hackaton, tive a participação na elaboração do Quizz e estilização</li>
