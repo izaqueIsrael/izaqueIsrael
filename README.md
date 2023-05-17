@@ -9,7 +9,7 @@
 <br>
 <h3>Esse são meus cursos e certificados</h3>
 <ul>
-<li><a style="color:white" href="https://cursos.alura.com.br/certificate/1cd3ebbd-4135-4a22-b941-37cd5a88368a" target="_blank">Desenvolvedor Full Stack, Practicum Yandex</a></li>
+<li><a style="color:white" href="" target="_blank">Desenvolvedor Full Stack, Practicum Yandex com formação em junho/23</a></li>
 <li><a style="color:white" href="https://cursos.alura.com.br/certificate/5be6f8ae-f02b-46f9-8e51-2eebda18fecb" target="_blank">Git e Github, repositório, commit e versões</a></li>
 <li><a style="color:white" href="https://cursos.alura.com.br/certificate/iisrael-afv/git-github-controle-de-versao" target="_blank">Git e Github, controle e compartilhamento</a></li>
 <li><a style="color:white" href="https://cursos.alura.com.br/certificate/iisrael-afv/git-github-branching-conflitos-pull-requests" target="_blank">Git e Github, ramificação, conflitos e pull requests</a></li>
