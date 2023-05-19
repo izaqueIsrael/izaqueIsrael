@@ -29,7 +29,7 @@
 <li><a href="https://github.com/izaqueIsrael/around-express_ptbr" style="color:white" target="_blank">Around Express:</a>  Api do projeto Around React e Social Network</li>
 <li><a href="https://github.com/izaqueIsrael/web_project_4_ptbr" style="color:white" target="_blank">Social Network:</a>  Rede Social do Around React, mas feita com JavaScript Puro</li>
 <li><a href="https://github.com/izaqueIsrael/web_project_3_ptbr" style="color:white" target="_blank">Landing Page:</a>  Página de apresentação, demonstrando proeficiencia com HTML e CSS</li>
-<li><a href="https://github.com/hainaha/carnaval-pudding-frontend" style="color:white" target="_blank">Carnaval Puding:</a>  Projeto vencedor do Hackaton, tive a participação na elaboração do Quizz e estilização</li>
+<li><a href="https://github.com/hainaha/carnaval-pudding-frontend" style="color:white" target="_blank">Carnaval Puding:</a>  Projeto vencedor do Hackaton Code Jam, tive a participação na elaboração do Quizz e estilização</li>
 <li><a href="https://www.behance.net/gallery/141053925/RPG-Template" style="color:white" target="_blank">RPG Theme:</a>  Arte conceitual para página de apresentação</li>
 <li><a href="https://www.behance.net/gallery/141054285/advertising-and-marketing-template" style="color:white" target="_blank">Market Template:</a>  Arte conceitual para propaganda</li>
 </ul>
