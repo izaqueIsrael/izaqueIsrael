@@ -95,7 +95,6 @@
 <p align="center" style="font-weight:bold"> iisrael.afv@gmail.com</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/izaque-israel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="Izaque Israel" height="30" width="40" /></a>
-<a href="//wa.me/5521991664660" target="blank"><img align="center" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png?raw=true" alt="Izaque Israel" height="30" width="30" /></a>
 </p>
 
 <br>
