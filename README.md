@@ -25,6 +25,8 @@
 
 <h3 align="justify">Confira meus trabalhos</h3>
 <ul>
+<li><a href="https://github.com/izaqueIsrael/portifolio" style="color:white" target="_blank">Cosmic:</a>Projeto de Portifólio Pessoal</li>
+<li><a href="https://github.com/izaqueIsrael/react-around-api-full_ptbr" style="color:white" target="_blank">Around Us:</a> Rede Social Full StackL</li>
 <li><a href="https://github.com/izaqueIsrael/around-react" style="color:white" target="_blank">Around React:</a> Rede Social feita com react e uma API em Node com banco NoSQL</li>
 <li><a href="https://github.com/izaqueIsrael/around-express_ptbr" style="color:white" target="_blank">Around Express:</a>  Api do projeto Around React e Social Network</li>
 <li><a href="https://github.com/izaqueIsrael/web_project_4_ptbr" style="color:white" target="_blank">Social Network:</a>  Rede Social do Around React, mas feita com JavaScript Puro</li>
