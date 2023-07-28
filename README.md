@@ -90,7 +90,8 @@
 <ul>
 <li>🧑‍🎓 Estou no segundo período da minha faculdade de Engenharia de Software</li>
 <li>🧑‍🍳 Sou um excelente chef</li>
-<li>🧙‍♂️ Jogo World of Warcraft desde 2009, possuo "O Insano" ...</li>
+<li>🧙‍♂️ Jogo World of Warcraft desde 2009</li>
+<li>:crossed_swords: Jogo de Paladino, possuo o título do "O Insano"</li>
 <li>📖 Meu gênero literário favorito é de fantasia</li>
 <li>🎸 Minha banda favorita é Sabaton</li>
 </ul>
