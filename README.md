@@ -47,6 +47,13 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">    
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" alt="C" width="40" height="40"/>
 </a>
+<a href="https://azure.microsoft.com/pt-br/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="react" width="40" height="40"/> 
+</a>
+</a>
+<a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> 
+</a>
+<a href="https://cloud.google.com/?hl=pt-br" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> 
+</a>
 </p>
 
 <br>
