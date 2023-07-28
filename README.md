@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Izaque Israel 👋 <a href="https://www.linkedin.com/in/izaque-israel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="Izaque Israel" height="30" width="40" /></a></h1>
-<h3 align="center">Meu nome é Izaque e sou desenvolvedor Full Stack, é um honra te-lo aqui 😁</h2>
+<h3 align="center">Meu nome é Izaque e sou desenvolvedor Full Stack, é um honra te ter aqui 😁</h2>
 <br>
 <p align="justify">Eu tenho experiência com meus projetos e gosto de trabalhar com JavaScript, incluindo suas bibliotecas e frameworks, para resolver problemas na criação e manutenção de aplicações. Me sinto confortável em utilizar diversas tecnologias, tais como React, Node.js, Express.js, entre outras, e busco sempre aprender mais para melhorar minhas habilidades.</p>
 <br>
