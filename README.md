@@ -69,9 +69,22 @@
 </ul>
 
 <br>
-<p align="justify">Tenho experiência como freelancer na área de eletrônica e vendas, realizando serviços de manutenção e reparo de diversos equipamentos. Possuo conhecimentos intermediários de inglês e sou uma pessoa responsável, organizada e comprometida com a qualidade do meu trabalho.</p>
+<h3>Experiência Profissional</h3>
 
-<br>
+1. **Técnico Mecatrônico, Autônomo** (01/2021 - presente)
+   - Manutenção de eletrônicos diversos, otimização de processos de reparo.
+   - Desenvolvimento de habilidades de resolução de problemas e conhecimento em eletrônicos e softwares.
+
+2. **Militar, Exército Brasileiro** (02/2020 - 09/2020)
+   - Destaque como um dos melhores alunos em treinamento militar.
+   - Demonstração de habilidades em trabalho em equipe, liderança e disciplina.
+
+3. **Gerente de Vendas, Nova Meriti Ótica** (01/2016 - 12/2019)
+   - Automatização de vendas e controle de estoque, alcançando excelentes resultados.
+   - Aprimoramento de habilidades de gestão e técnicas de vendas e atendimento ao cliente.
+
+Sou uma pessoa responsável, organizada e comprometida com a qualidade do meu trabalho. Procuro constantemente novos desafios para aplicar meu conhecimento e contribuir para o sucesso de projetos e empresas.
+
 
 <h3 align="justify">Confira meus trabalhos</h3>
 <ul>
