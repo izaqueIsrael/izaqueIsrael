@@ -79,7 +79,7 @@
    - Destaque como um dos melhores alunos em treinamento militar.
    - Demonstração de habilidades em trabalho em equipe, liderança e disciplina.
 
-3. **Gerente de Vendas, Nova Meriti Ótica** (01/2016 - 12/2019)
+3. **Gerente de Operações, Nova Meriti Ótica** (01/2016 - 12/2019)
    - Automatização de vendas e controle de estoque, alcançando excelentes resultados.
    - Aprimoramento de habilidades de gestão e técnicas de vendas e atendimento ao cliente.
 
