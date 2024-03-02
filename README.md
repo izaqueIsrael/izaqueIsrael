@@ -71,17 +71,20 @@
 <br>
 <h3>Experiência Profissional</h3>
 
-1. **Técnico Mecatrônico, Autônomo** (01/2021 - presente)
-   - Manutenção de eletrônicos diversos, otimização de processos de reparo.
-   - Desenvolvimento de habilidades de resolução de problemas e conhecimento em eletrônicos e softwares.
+1. **Bolsista, Compass UOL** (08/2023 – 12/2023)
+   - Análise e gerenciamento de dados utilizando Python, Pandas e serviços da AWS.
 
-2. **Militar, Exército Brasileiro** (02/2020 - 09/2020)
-   - Destaque como um dos melhores alunos em treinamento militar.
-   - Demonstração de habilidades em trabalho em equipe, liderança e disciplina.
+2. **Técnico Mecatrônico, Autônomo** (01/2021 – 08/2023)
+   - Manutenção de uma variedade de dispositivos eletrônicos, com foco na otimização de processos de reparo.
+   - Aprimoramento das habilidades de gerenciamento de tempo e resolução de problemas, resultando na significativa redução do tempo médio de reparos.
 
-3. **Gerente de Operações, Nova Meriti Ótica** (01/2016 - 12/2019)
-   - Automatização de vendas e controle de estoque, alcançando excelentes resultados.
-   - Aprimoramento de habilidades de gestão e técnicas de vendas e atendimento ao cliente.
+3. **Militar, Exército Brasileiro** (02/2020 – 09/2020)
+   - Destaque pelo alto desempenho em treinamentos e missões durante o serviço militar.
+   - Fortalecimento da disciplina e habilidades de trabalho em equipe em um ambiente intensivo.
+
+4. **Gerente de Operações, Nova Meriti Ótica** (01/2016 – 12/2019)
+   - Liderança na modernização dos processos operacionais da loja, incluindo controle de estoque e atendimento ao cliente.
+   - Desenvolvimento das habilidades de liderança, gestão de equipe e implementação de estratégias de otimização de processos.
 
 Sou uma pessoa responsável, organizada e comprometida com a qualidade do meu trabalho. Procuro constantemente novos desafios para aplicar meu conhecimento e contribuir para o sucesso de projetos e empresas.
 
