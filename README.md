@@ -57,17 +57,23 @@
 </p>
 
 <br>
-<h3>Esse são meus cursos e certificados</h3>
-<ul>
-<li><a style="color:white" href="" target="_blank">Desenvolvedor Full Stack, Practicum Yandex com formação em junho/23</a></li>
-<li><a style="color:white" href="https://cursos.alura.com.br/certificate/5be6f8ae-f02b-46f9-8e51-2eebda18fecb" target="_blank">Git e Github, repositório, commit e versões</a></li>
-<li><a style="color:white" href="https://cursos.alura.com.br/certificate/iisrael-afv/git-github-controle-de-versao" target="_blank">Git e Github, controle e compartilhamento</a></li>
-<li><a style="color:white" href="https://cursos.alura.com.br/certificate/iisrael-afv/git-github-branching-conflitos-pull-requests" target="_blank">Git e Github, ramificação, conflitos e pull requests</a></li>
-<li><a style="color:white" href="https://www.freecodecamp.org/certification/fcc31abeb5e-80fd-4182-a610-0c263f3e3a50/responsive-web-design" target="_blank">Responsible Web Designer</a></li>
-<li><a style="color:white" href="" target="_blank">Cybersegurança voltada a Segurança de Dados</a></li>
-<li><a style="color:white" href="https://cursos.alura.com.br/certificate/1cd3ebbd-4135-4a22-b941-37cd5a88368a" target="_blank">Adobe XD</a></li>
-</ul>
+- **AWS Cloud Practitioner, AWS**
+  - Certificação Cloud Practitioner da AWS
 
+- **AWS Cloud Data Engineering, Compass UOL**
+  - Curso focado em Engenharia de Dados e AWS
+
+- **Desenvolvedor Web Full Stack, Triple10**
+  - Curso de desenvolvimento web Full Stack
+
+- **Responsible Web Designer, Free Code Camp**
+  - Curso de desenvolvimento web responsivo
+
+- **Cyber segurança voltada a Segurança de Dados, Unicesumar**
+  - Curso voltado para boas práticas de programação com foco em segurança de dados
+
+- **Git e Github, Alura**
+  - Ramificação, Conflitos, Pull Requests, Controle, Compartilhamento de código
 <br>
 <h3>Experiência Profissional</h3>
 
