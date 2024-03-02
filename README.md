@@ -49,7 +49,7 @@
 <a href="https://azure.microsoft.com/pt-br/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="react" width="40" height="40"/> 
 </a>
 </a>
-<a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> 
+<a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
 </a>
 <a href="https://cloud.google.com/?hl=pt-br" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> 
 </a>
