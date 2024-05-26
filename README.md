@@ -70,26 +70,6 @@
 - **Git e Github, Alura**
   - Ramificação, Conflitos, Pull Requests, Controle, Compartilhamento de código
 <br>
-<h3>Experiência Profissional</h3>
-
-1. **Bolsista, Compass UOL** (08/2023 – 12/2023)
-   - Análise e gerenciamento de dados utilizando Python, Pandas e serviços da AWS.
-
-2. **Técnico Mecatrônico, Autônomo** (01/2021 – 08/2023)
-   - Manutenção de uma variedade de dispositivos eletrônicos, com foco na otimização de processos de reparo.
-   - Aprimoramento das habilidades de gerenciamento de tempo e resolução de problemas, resultando na significativa redução do tempo médio de reparos.
-
-3. **Militar, Exército Brasileiro** (02/2020 – 09/2020)
-   - Destaque pelo alto desempenho em treinamentos e missões durante o serviço militar.
-   - Fortalecimento da disciplina e habilidades de trabalho em equipe em um ambiente intensivo.
-
-4. **Gerente de Operações, Nova Meriti Ótica** (01/2016 – 12/2019)
-   - Liderança na modernização dos processos operacionais da loja, incluindo controle de estoque e atendimento ao cliente.
-   - Desenvolvimento das habilidades de liderança, gestão de equipe e implementação de estratégias de otimização de processos.
-
-Sou uma pessoa responsável, organizada e comprometida com a qualidade do meu trabalho. Procuro constantemente novos desafios para aplicar meu conhecimento e contribuir para o sucesso de projetos e empresas.
-
-
 <h3 align="justify">Confira meus trabalhos</h3>
 <ul>
 <li><a href="https://github.com/izaqueIsrael/portifolio" style="color:white" target="_blank">Cosmic: </a>Projeto de Portifólio Pessoal</li>
