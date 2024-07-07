@@ -3,6 +3,16 @@
 
 <br>
 
+<div align="center">
+    <p align="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izaqueisrael&theme=dark" alt="izaqueIsrael" />
+    </p>
+    <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=izaqueIsrael&show_icons=true&theme=dark#gh-dark-mode-only" alt="izaqueIsrael" />
+    </p>
+</div>
+<br>
+
 ### Carreira na área de Desenvolvimento de Software, com foco em projetos de qualidade e inovação. Experiência prática em desenvolvimento Full Stack, com conhecimento em diversas tecnologias e metodologias. 
 
 - Desenvolvedor Full Stack: Javascript, Typescript, NodeJs, Python, React, Tailwind, MongoDB, PostgreSQL, dentre outros, entendendo a necessidade e agindo de forma a garantir uma entrega de qualidade e dentro do prazo. 
@@ -80,6 +90,15 @@
 </p>
 
 <br>
+<div align="center">
+    <p align="center">
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izaqueIsrael&layout=donut-vertical&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+        
+</p>
+</div>
+
+<br>
 
 - **Oracle One, em Andamento**
   - Formação Back-End em Java patrocinada pela Oracle.
@@ -127,4 +146,3 @@ Se quiserem saber um pouco mais sobre mim, acesse meu site de portifólio [Cosmi
 <br>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izaqueisrael&theme=dark" alt="izaqueIsrael" /></p>
