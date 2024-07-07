@@ -13,7 +13,9 @@
 </div>
 <br>
 
-### Carreira na área de Desenvolvimento de Software, com foco em projetos de qualidade e inovação. Experiência prática em desenvolvimento Full Stack, com conhecimento em diversas tecnologias e metodologias. 
+### Sobre
+
+Carreira na área de Desenvolvimento de Software, com foco em projetos de qualidade e inovação. Experiência prática em desenvolvimento Full Stack, com conhecimento em diversas tecnologias e metodologias. 
 
 - Desenvolvedor Full Stack: Javascript, Typescript, NodeJs, Python, React, Tailwind, MongoDB, PostgreSQL, dentre outros, entendendo a necessidade e agindo de forma a garantir uma entrega de qualidade e dentro do prazo. 
 
