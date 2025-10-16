@@ -12,17 +12,6 @@
     </p>
 </div>
 <br>
-### Projetos
-
-Se quiserem saber um pouco mais sobre mim, acesse meu site de portifólio [Cosmic](https://cosmic-tau.vercel.app/)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/izaqueIsrael/images/main/cosmic.png" alt="Cosmic, portifólio do Izaque">
-</p>
-
-## Autor
-
-    Izaque
     
 <hr>
 <h3 align="center">Contato</h2>
